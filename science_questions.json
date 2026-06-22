@@ -1,0 +1,1778 @@
+[
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "1",
+    "type": "multiple-choice",
+    "clean_text": "Red flower color is dominant to white flower color in rose plants. What is the expected result of a cross between two heterozygous rose plants?",
+    "raw_text": "<img src=\"images/question_1.png\" class=\"question-image\"><br><br>Red flower color is dominant to white flower color in rose plants. What is the expected result of a cross between two heterozygous rose plants?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "2",
+    "type": "drag-drop",
+    "clean_text": "Place the phases of mitosis in the correct sequence.",
+    "raw_text": "Place the phases of mitosis in the correct sequence."
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "3",
+    "type": "multiple-choice",
+    "clean_text": "To classify an organism a scientist finds in the field, which of these will the scientist first compare to other known organisms?",
+    "raw_text": "To classify an organism a scientist finds in the field, which of these will the scientist first compare to other known organisms?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "4",
+    "type": "multiple-choice",
+    "clean_text": "For the growth curve to continue increasing, which of these must occur?",
+    "raw_text": "<img src=\"images/question_4.png\" class=\"question-image\"><br><br>For the growth curve to continue increasing, which of these must occur?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "5",
+    "type": "multiple-choice",
+    "clean_text": "What did Rosalind Franklin contribute to the understanding of DNA molecules?",
+    "raw_text": "What did Rosalind Franklin contribute to the understanding of DNA molecules?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "6",
+    "type": "drag-drop",
+    "clean_text": "Some functions of several structures of a fish are listed in the chart. Complete the chart by placing the structures of a cell next to the function they perform.",
+    "raw_text": "Some functions of several structures of a fish are listed in the chart. Complete the chart by placing the structures of a cell next to the function they perform."
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "7",
+    "type": "multiple-choice",
+    "clean_text": "Darwin's explanation for evolution was dependent on which scientific concept?",
+    "raw_text": "Darwin's explanation for evolution was dependent on which scientific concept?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "8",
+    "type": "multiple-choice",
+    "clean_text": "Which best helps scientists determine the age of fossils?",
+    "raw_text": "Which best helps scientists determine the age of fossils?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "9",
+    "type": "multiple-choice",
+    "clean_text": "A student is investigating the effect of plants on indoor air quality and states, \"If plants are added to an indoor environment, the air quality will improve.\" This statement is an example of —",
+    "raw_text": "A student is investigating the effect of plants on indoor air quality and states, \"If plants are added to an indoor environment, the air quality will improve.\" This statement is an example of —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "10",
+    "type": "multiple-choice",
+    "clean_text": "Although controversial at first, the germ theory of disease proposed that microorganisms were the cause of many diseases. Which of these was a result of the general acceptance that microorganisms cause disease?",
+    "raw_text": "Although controversial at first, the germ theory of disease proposed that microorganisms were the cause of many diseases. Which of these was a result of the general acceptance that microorganisms cause disease?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "11",
+    "type": "multiple-choice",
+    "clean_text": "A biologist gathered data to show the interaction of the golden-cheeked warbler and juniper tree populations. Which conclusion did the biologist most likely make from the data shown?",
+    "raw_text": "<img src=\"images/question_11.png\" class=\"question-image\"><br><br>A biologist gathered data to show the interaction of the golden-cheeked warbler and juniper tree populations. Which conclusion did the biologist most likely make from the data shown?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "12",
+    "type": "multiple-choice",
+    "clean_text": "Studying the differences between fossils and modern organisms helps scientists better understand the —",
+    "raw_text": "<img src=\"images/question_12.png\" class=\"question-image\"><br><br>Studying the differences between fossils and modern organisms helps scientists better understand the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "13",
+    "type": "multiple-choice",
+    "clean_text": "This chart shows observations made of an unknown organism. Based on this information, the organism most likely belongs to the kingdom —",
+    "raw_text": "<img src=\"images/question_13.png\" class=\"question-image\"><br><br>This chart shows observations made of an unknown organism. Based on this information, the organism most likely belongs to the kingdom —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "14",
+    "type": "multiple-choice",
+    "clean_text": "What can be concluded from this graph?",
+    "raw_text": "<img src=\"images/question_14.png\" class=\"question-image\"><br><br>What can be concluded from this graph?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "15",
+    "type": "multiple-choice",
+    "clean_text": "Which statement is an inference based on this information?",
+    "raw_text": "<img src=\"images/question_15.png\" class=\"question-image\"><br><br>Which statement is an inference based on this information?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "16",
+    "type": "multiple-choice",
+    "clean_text": "The weakness of hydrogen bonds between the bases of DNA allows —",
+    "raw_text": "The weakness of hydrogen bonds between the bases of DNA allows —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "17",
+    "type": "multiple-choice",
+    "clean_text": "Which of these would most likely result in a change to the current classification of an organism?",
+    "raw_text": "Which of these would most likely result in a change to the current classification of an organism?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "18",
+    "type": "multiple-select",
+    "clean_text": "Select the autotrophs.",
+    "raw_text": "Select the autotrophs."
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "19",
+    "type": "multiple-choice",
+    "clean_text": "Five species of frogs that live in separate habitats within 5 non-overlapping ranges along the Mississippi River share a common ancestor. Which process is most likely responsible for the formation of these five distinct species?",
+    "raw_text": "Five species of frogs that live in separate habitats within 5 non-overlapping ranges along the Mississippi River share a common ancestor. Which process is most likely responsible for the formation of these five distinct species?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "20",
+    "type": "multiple-choice",
+    "clean_text": "Chloroplast process X + H₂O → Y + O₂ The diagram shown represents the input and output of a process performed by the chloroplast of a cell. Which substance is most likely represented by Y?",
+    "raw_text": "Chloroplast process<br><u>X</u> + H₂O → <u>Y</u> + O₂<br><br>The diagram shown represents the input and output of a process performed by the chloroplast of a cell. Which substance is most likely represented by Y?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "21",
+    "type": "multiple-choice",
+    "clean_text": "Which statement best describes her hypothesis?",
+    "raw_text": "<img src=\"images/question_21.png\" class=\"question-image\"><br><br>Which statement best describes her hypothesis?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "22",
+    "type": "multiple-choice",
+    "clean_text": "Seaweeds occupy an important niche in the Chesapeake Bay ecosystem. Which question will best help a student identify the role of seaweeds in this ecosystem?",
+    "raw_text": "Seaweeds occupy an important niche in the Chesapeake Bay ecosystem. Which question will best help a student identify the role of seaweeds in this ecosystem?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "23",
+    "type": "multiple-choice",
+    "clean_text": "In 1950, Erwin Chargaff discovered that the percentage of adenine in DNA equals the percentage of thymine, and that the percentage of cytosine equals the percentage of guanine. This proved invaluable to the eventual discovery of which aspect of DNA?",
+    "raw_text": "In 1950, Erwin Chargaff discovered that the percentage of adenine in DNA equals the percentage of thymine, and that the percentage of cytosine equals the percentage of guanine. This proved invaluable to the eventual discovery of which aspect of DNA?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "24",
+    "type": "multiple-choice",
+    "clean_text": "The study of embryos and other early stages of development can help in the classification of living things, past and present, by providing clues about the —",
+    "raw_text": "The study of embryos and other early stages of development can help in the classification of living things, past and present, by providing clues about the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "25",
+    "type": "drag-drop",
+    "clean_text": "Complete the sentences about water molecules by dragging the correct terms to each box.",
+    "raw_text": "Complete the sentences about water molecules by dragging the correct terms to each box."
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "26",
+    "type": "multiple-choice",
+    "clean_text": "Which characteristic do most adult fungi and plants share?",
+    "raw_text": "Which characteristic do most adult fungi and plants share?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "27",
+    "type": "multiple-choice",
+    "clean_text": "Students use a dissolved oxygen probe during a laboratory activity involving 1,000 mL samples of pond water. The function of the probe is to —",
+    "raw_text": "<img src=\"images/question_27.png\" class=\"question-image\"><br><br>Students use a dissolved oxygen probe during a laboratory activity involving 1,000 mL samples of pond water. The function of the probe is to —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "28",
+    "type": "free-response",
+    "clean_text": "In a population of 120 oak trees, 25% of the population has oak wilt disease. What is the number of trees in this population that have oak wilt?",
+    "raw_text": "In a population of 120 oak trees, 25% of the population has oak wilt disease. What is the number of trees in this population that have oak wilt?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "29",
+    "type": "multiple-choice",
+    "clean_text": "An insect called the hemlock woolly adelgid was introduced to a Virginia forest ecosystem. This pest feeds on the nutrients stored inside a hemlock tree, resulting in the death of the tree. Which kind of data would best help a student evaluate the effect of this insect?",
+    "raw_text": "An insect called the hemlock woolly adelgid was introduced to a Virginia forest ecosystem. This pest feeds on the nutrients stored inside a hemlock tree, resulting in the death of the tree. Which kind of data would best help a student evaluate the effect of this insect?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "30",
+    "type": "multiple-choice",
+    "clean_text": "A student wanted to compare the transpiration rates of two different plant species at varying levels of humidity. The results are recorded in the table shown. Each plant group was given the same amount of water and light throughout the investigation. Which procedure should have been performed to prevent error in this investigation?",
+    "raw_text": "<img src=\"images/question_30.png\" class=\"question-image\"><br><br>A student wanted to compare the transpiration rates of two different plant species at varying levels of humidity. The results are recorded in the table shown. Each plant group was given the same amount of water and light throughout the investigation. Which procedure should have been performed to prevent error in this investigation?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "31",
+    "type": "multiple-choice",
+    "clean_text": "In an ecosystem, a sudden decrease in the number of bacteria in the soil would most likely result in —",
+    "raw_text": "In an ecosystem, a sudden decrease in the number of bacteria in the soil would most likely result in —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "32",
+    "type": "multiple-choice",
+    "clean_text": "Medicines are being produced using recombinant DNA technology. For veterinarians, the use of this DNA technology will result in —",
+    "raw_text": "Medicines are being produced using recombinant DNA technology. For veterinarians, the use of this DNA technology will result in —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "33",
+    "type": "multiple-choice",
+    "clean_text": "The arrow in the diagram represents the movement of which molecular structure?",
+    "raw_text": "<img src=\"images/question_33.png\" class=\"question-image\"><br><br>The arrow in the diagram represents the movement of which molecular structure?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "34",
+    "type": "multiple-choice",
+    "clean_text": "According to the classification key, what is the genus and species of this organism?",
+    "raw_text": "<img src=\"images/question_34.png\" class=\"question-image\"><br><br>According to the classification key, what is the genus and species of this organism?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "35",
+    "type": "multiple-choice",
+    "clean_text": "The jackrabbit is a desert mammal. The jackrabbit's circulatory system increases blood flow to the ears during hot days. The blood flow to the ears decreases during cool or cold nights. This circulation pattern is most directly related to —",
+    "raw_text": "<img src=\"images/question_35.png\" class=\"question-image\"><br><br>The jackrabbit is a desert mammal. The jackrabbit's circulatory system increases blood flow to the ears during hot days. The blood flow to the ears decreases during cool or cold nights. This circulation pattern is most directly related to —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "36",
+    "type": "multiple-choice",
+    "clean_text": "Proteins are among the most diverse group of macromolecules because of the —",
+    "raw_text": "Proteins are among the most diverse group of macromolecules because of the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "37",
+    "type": "multiple-choice",
+    "clean_text": "Which is an activity that increases the genetic variation within a population of earthworms?",
+    "raw_text": "Which is an activity that increases the genetic variation within a population of earthworms?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "38",
+    "type": "multiple-choice",
+    "clean_text": "The structural differences between a tadpole and an adult frog are due to the —",
+    "raw_text": "The structural differences between a tadpole and an adult frog are due to the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "39",
+    "type": "multiple-choice",
+    "clean_text": "After 24 hours, the amount of gas that accumulated at the top of the inverted test tube is measured. The students conclude that the light source is causing the water to evaporate, causing water vapor to fill the top of the tube. The best alternative explanation of the differences between the setups is that the —",
+    "raw_text": "<img src=\"images/question_39.png\" class=\"question-image\"><br><br>After 24 hours, the amount of gas that accumulated at the top of the inverted test tube is measured. The students conclude that the light source is causing the water to evaporate, causing water vapor to fill the top of the tube. The best alternative explanation of the differences between the setups is that the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "40",
+    "type": "drag-drop",
+    "clean_text": "This table was found in a journal of student research. What are the independent and dependent variables in this investigation?",
+    "raw_text": "<img src=\"images/question_40.png\" class=\"question-image\"><br><br>This table was found in a journal of student research. What are the independent and dependent variables in this investigation?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "41",
+    "type": "multiple-choice",
+    "clean_text": "Scientists classifying modern animals are most likely to compare the —",
+    "raw_text": "Scientists classifying modern animals are most likely to compare the —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "42",
+    "type": "multiple-choice",
+    "clean_text": "Which feature do viruses have in common with animal cells?",
+    "raw_text": "Which feature do viruses have in common with animal cells?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "43",
+    "type": "multiple-choice",
+    "clean_text": "According to this diagram, the result of spermatogenesis is four sperm cells, each with —",
+    "raw_text": "<img src=\"images/question_43.png\" class=\"question-image\"><br><br>According to this diagram, the result of spermatogenesis is four sperm cells, each with —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "44",
+    "type": "multiple-choice",
+    "clean_text": "A group of ponies lives in the Chincoteague National Wildlife Reserve in Virginia. The development of longer legs over time would be selected for if —",
+    "raw_text": "A group of ponies lives in the Chincoteague National Wildlife Reserve in Virginia. The development of longer legs over time would be selected for if —"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "45",
+    "type": "multiple-choice",
+    "clean_text": "One parent is heterozygous for a certain trait (Dd). The other parent is homozygous dominant (DD) for that trait. What is the percent chance that an offspring from this cross will be heterozygous?",
+    "raw_text": "One parent is heterozygous for a certain trait (Dd). The other parent is homozygous dominant (DD) for that trait. What is the percent chance that an offspring from this cross will be heterozygous?"
+  },
+  {
+    "source_file": "science-biology-2015.js",
+    "test_id": "science_biology_2015",
+    "qid": "46",
+    "type": "multiple-choice",
+    "clean_text": "Which trial in the table of data shown has questionable data?",
+    "raw_text": "<img src=\"images/question_46.png\" class=\"question-image\"><br><br>Which trial in the table of data shown has questionable data?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "A student measures the mass of a 1.00 g aluminum rod as 0.99 g. The best estimate of the percent error associated with this measurement is —",
+    "raw_text": "A student measures the mass of a 1.00 g aluminum rod as 0.99 g. The best estimate of the percent error associated with this measurement is —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "The most efficient way to determine whether a reaction is an exothermic chemical reaction is to use —",
+    "raw_text": "The most efficient way to determine whether a reaction is an exothermic chemical reaction is to use —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "2Al(C₂H₃O₂)₃ + 3Ba(SO₄) → Al₂(SO₄)₃ + 3Ba(C₂H₃O₂)₂ Which type of chemical reaction does this equation represent?",
+    "raw_text": "<center>2Al(C₂H₃O₂)₃ + 3Ba(SO₄) → Al₂(SO₄)₃ + 3Ba(C₂H₃O₂)₂</center><br>Which type of chemical reaction does this equation represent?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "free-response",
+    "clean_text": "What is the oxidation number of an oxide ion?",
+    "raw_text": "What is the oxidation number of an oxide ion?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What is the molarity of a solution with 0.2 moles of potassium permanganate (KMnO₄) dissolved in enough water to make a 500.0 mL solution?",
+    "raw_text": "What is the molarity of a solution with 0.2 moles of potassium permanganate (KMnO₄) dissolved in enough water to make a 500.0 mL solution?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "When 92.0 g of ethanol (C₂H₅OH) are vaporized at its boiling point of 78.3°C, it requires 78.6 kJ of energy. What is the approximate molar heat of vaporization of ethanol in kJ/mol?",
+    "raw_text": "When 92.0 g of ethanol (C₂H₅OH) are vaporized at its boiling point of 78.3°C, it requires 78.6 kJ of energy. What is the approximate molar heat of vaporization of ethanol in kJ/mol?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "free-response",
+    "clean_text": "What is the density (in g/mL) of an aqueous solution that has a mass of 10.081 g and 12.5 mL? Your answer must use significant digits.",
+    "raw_text": "What is the density (in g/mL) of an aqueous solution that has a mass of 10.081 g and 12.5 mL? Your answer must use significant digits."
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which element has 16 neutrons, 15 protons, and 15 electrons?",
+    "raw_text": "Which element has 16 neutrons, 15 protons, and 15 electrons?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Al( s ) + 3AgNO₃( aq ) → Al(NO₃)₃( aq ) + 3Ag( s ) This equation represents which type of chemical reaction?",
+    "raw_text": "<center>Al(<i>s</i>) + 3AgNO₃(<i>aq</i>) → Al(NO₃)₃(<i>aq</i>) + 3Ag(<i>s</i>)</center><br>This equation represents which type of chemical reaction?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "In the formula for barium chloride, (BaCl₂), barium (Ba) is written first because it is —",
+    "raw_text": "In the formula for barium chloride, (BaCl₂), barium (Ba) is written first because it is —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which of these laboratory techniques is best to separate a solid from a liquid to recover the liquid?",
+    "raw_text": "Which of these laboratory techniques is best to separate a solid from a liquid to recover the liquid?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which of these is NOT required to ensure that stock solutions are free of contamination?",
+    "raw_text": "Which of these is NOT required to ensure that stock solutions are free of contamination?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which of these values is most responsible for changing the boiling and freezing points of a solvent?",
+    "raw_text": "Which of these values is most responsible for changing the boiling and freezing points of a solvent?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What is the name of the compound with the formula NH₄NO₃?",
+    "raw_text": "What is the name of the compound with the formula NH₄NO₃?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "free-response",
+    "clean_text": "Calculate the number of moles of Li₃PO₄ in 2.2 L of a 0.60 M Li₃PO₄ solution.",
+    "raw_text": "Calculate the number of moles of Li₃PO₄ in 2.2 L of a 0.60 M Li₃PO₄ solution."
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "N₂ + 3F₂ ⇌ 2NF₃ Equilibrium has been reached for the reaction shown. Which conclusion is correct?",
+    "raw_text": "<center>N₂ + 3F₂ ⇌ 2NF₃</center><br>Equilibrium has been reached for the reaction shown. Which conclusion is correct?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "If 89.6 joules of heat are needed to heat 20.0 grams of iron from 30.0°C to 40.0°C, what is the specific heat of the iron in J/(g·°C)?",
+    "raw_text": "If 89.6 joules of heat are needed to heat 20.0 grams of iron from 30.0°C to 40.0°C, what is the specific heat of the iron in J/(g·°C)?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which of the four substances on this pH scale is slightly basic?",
+    "raw_text": "<img src=\"images/question_18.png\" class=\"question-image\"><br><br>Which of the four substances on this pH scale is slightly basic?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which element will most likely form covalent bonds with fluorine?",
+    "raw_text": "Which element will most likely form covalent bonds with fluorine?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "The physical process of evaporation involves —",
+    "raw_text": "The physical process of evaporation involves —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "___C₂H₄ + ___O₂ → ___CO₂ + ___H₂O How many moles of O₂ are in the chemical equation when balanced using the lowest whole numbers?",
+    "raw_text": "<center>___C₂H₄ + ___O₂ → ___CO₂ + ___H₂O</center><br>How many moles of O₂ are in the chemical equation when balanced using the lowest whole numbers?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "While English physicist J. J. Thomson was carrying out experiments on cathode rays, he was able to determine that the rays consisted of particles he called \"corpuscles.\" These particles were later named —",
+    "raw_text": "<img src=\"images/question_22.png\" class=\"question-image\"><br><br>While English physicist J. J. Thomson was carrying out experiments on cathode rays, he was able to determine that the rays consisted of particles he called \"corpuscles.\" These particles were later named —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "In the Haber process, nitrogen (N₂) and hydrogen (H₂) are directly combined to form ammonia (NH₃). Which illustration contains the stoichiometric quantities of the reactants for this reaction?",
+    "raw_text": "In the Haber process, nitrogen (N₂) and hydrogen (H₂) are directly combined to form ammonia (NH₃). Which illustration contains the stoichiometric quantities of the reactants for this reaction?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "A beaker of water is placed in a large sealed jar that is attached to a vacuum pump. As air is pumped out of the jar, the water begins to boil because —",
+    "raw_text": "<img src=\"images/question_24.png\" class=\"question-image\"><br><br>A beaker of water is placed in a large sealed jar that is attached to a vacuum pump. As air is pumped out of the jar, the water begins to boil because —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-select",
+    "clean_text": "According to the periodic table of the elements, which elements belong to the same period?",
+    "raw_text": "According to the periodic table of the elements, which elements belong to the same period?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "How many moles are in 2.04 × 10²⁴ molecules of H₂O?",
+    "raw_text": "How many moles are in 2.04 × 10²⁴ molecules of H₂O?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What is the name for FeCl₃ using the IUPAC nomenclature rules?",
+    "raw_text": "What is the name for FeCl₃ using the IUPAC nomenclature rules?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "free-response",
+    "clean_text": "An expandable container of oxygen gas has a volume of 125 mL at a temperature of 25.0°C. What volume will the gas occupy at 55.0°C?",
+    "raw_text": "An expandable container of oxygen gas has a volume of 125 mL at a temperature of 25.0°C. What volume will the gas occupy at 55.0°C?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which of these correctly describes how organic catalysts operate in biological reactions?",
+    "raw_text": "Which of these correctly describes how organic catalysts operate in biological reactions?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What volume will 35.9 g of hydrogen gas (H₂) occupy at STP?",
+    "raw_text": "What volume will 35.9 g of hydrogen gas (H₂) occupy at STP?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "___Ca(NO₃)₂ + H₃PO₄ → ___Ca₃(PO₄)₂ + ___HNO₃ When this equation is balanced, the coefficient in front of H₃PO₄ is —",
+    "raw_text": "<center>___Ca(NO₃)₂ + H₃PO₄ → ___Ca₃(PO₄)₂ + ___HNO₃</center><br>When this equation is balanced, the coefficient in front of H₃PO₄ is —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Increasing the volume of a sealed container will cause the gas particles within the container to —",
+    "raw_text": "Increasing the volume of a sealed container will cause the gas particles within the container to —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Each of four groups of students determined and recorded the melting point of a solid compound. If the actual melting point is 113°C, which group had the best precision?",
+    "raw_text": "<img src=\"images/question_33.png\" class=\"question-image\"><br><br>Each of four groups of students determined and recorded the melting point of a solid compound. If the actual melting point is 113°C, which group had the best precision?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Consider any set of three adjacent elements in the same period on the periodic table. For which characteristic is the average for the three elements always equal to the value of the middle element?",
+    "raw_text": "Consider any set of three adjacent elements in the same period on the periodic table. For which characteristic is the average for the three elements always equal to the value of the middle element?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "A substance has a molecular formula of C₈H₁₀N₄O₂. The empirical formula is —",
+    "raw_text": "A substance has a molecular formula of C₈H₁₀N₄O₂. The empirical formula is —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "drag-drop",
+    "clean_text": "Create the formula for diboron trioxide using the symbols provided.",
+    "raw_text": "Create the formula for diboron trioxide using the symbols provided."
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What is the name for the compound AlI₃?",
+    "raw_text": "What is the name for the compound AlI₃?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O How many moles of carbon dioxide (CO₂) are produced when reacting 6.00 moles of butane (C₄H₁₀) in excess oxygen (O₂)?",
+    "raw_text": "<center>2C₄H₁₀ + 13O₂ → 8CO₂ + 10H₂O</center><br>How many moles of carbon dioxide (CO₂) are produced when reacting 6.00 moles of butane (C₄H₁₀) in excess oxygen (O₂)?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Which structure represents a nonpolar molecule?",
+    "raw_text": "Which structure represents a nonpolar molecule?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Using only one trial to collect data in an experiment —",
+    "raw_text": "Using only one trial to collect data in an experiment —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "A common product of acid-base neutralization reactions is —",
+    "raw_text": "A common product of acid-base neutralization reactions is —"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Based on the information provided, which solution is a base and a weak electrolyte?",
+    "raw_text": "<img src=\"images/question_42.png\" class=\"question-image\"><br><br>Based on the information provided, which solution is a base and a weak electrolyte?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "What is the half-life of Americium-242?",
+    "raw_text": "<img src=\"images/question_43.png\" class=\"question-image\"><br><br>What is the half-life of Americium-242?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "Two electrons are shared equally in bromine (Br₂). What type of bond is represented between the bromine atoms in this Lewis structure?",
+    "raw_text": "<img src=\"images/question_44.png\" class=\"question-image\"><br><br>Two electrons are shared equally in bromine (Br₂). What type of bond is represented between the bromine atoms in this Lewis structure?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "A student is studying the effects of several solutions on the prevention of the browning of apples. The student used solutions having different pH values and immersed three apple slices in equal volumes of each of the solutions. Which of these is the independent variable in this investigation?",
+    "raw_text": "A student is studying the effects of several solutions on the prevention of the browning of apples. The student used solutions having different pH values and immersed three apple slices in equal volumes of each of the solutions. Which of these is the independent variable in this investigation?"
+  },
+  {
+    "source_file": "science-chemistry-2015.js",
+    "test_id": "science_chemistry_2015",
+    "qid": "",
+    "type": "multiple-choice",
+    "clean_text": "An experiment produced 0.10 g CO₂ with a volume of 0.056 L at STP. If the accepted density of CO₂ at STP is 1.96 g/L, what is the approximate percent error?",
+    "raw_text": "An experiment produced 0.10 g CO₂ with a volume of 0.056 L at STP. If the accepted density of CO₂ at STP is 1.96 g/L, what is the approximate percent error?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "1",
+    "type": "multiple-choice",
+    "clean_text": "The fossil at point X has been dated to be 65 million years old. What can relative dating indicate about the fossil at point Y?",
+    "raw_text": "<img src=\"images/question_1.png\" class=\"question-image\"><br><br>The fossil at point X has been dated to be 65 million years old. What can relative dating indicate about the fossil at point Y?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "2",
+    "type": "multiple-choice",
+    "clean_text": "The highest and lowest tides are known as the spring tides. When do these tides occur?",
+    "raw_text": "The highest and lowest tides are known as the spring tides. When do these tides occur?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "3",
+    "type": "multiple-choice",
+    "clean_text": "Which best describes the area shown in this aerial photograph?",
+    "raw_text": "<img src=\"images/question_3.png\" class=\"question-image\"><br><br>Which best describes the area shown in this aerial photograph?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "4",
+    "type": "multiple-choice",
+    "clean_text": "The moon has a stronger influence on Earth's tides than the sun because the moon —",
+    "raw_text": "The moon has a stronger influence on Earth's tides than the sun because the moon —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "5",
+    "type": "multiple-choice",
+    "clean_text": "Remains of ancient life are most often preserved through which process?",
+    "raw_text": "Remains of ancient life are most often preserved through which process?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "6",
+    "type": "multiple-choice",
+    "clean_text": "Environmental effects of the impact of a meteorite 66.4 million years ago may have led to the extinction of many species on Earth. Which evidence best supports this theory?",
+    "raw_text": "Environmental effects of the impact of a meteorite 66.4 million years ago may have led to the extinction of many species on Earth. Which evidence best supports this theory?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "7",
+    "type": "drag-drop",
+    "clean_text": "When a river flows into a lake, the velocity of the water decreases. Which sediments will most likely be in the numbered locations?",
+    "raw_text": "When a river flows into a lake, the velocity of the water decreases. Which sediments will most likely be in the numbered locations? <br><br><img src=\"images/question_7.png\" class=\"question-image\">"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "8",
+    "type": "drag-drop",
+    "clean_text": "Which type of rock is formed by each process?",
+    "raw_text": "Which type of rock is formed by each process?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "9",
+    "type": "multiple-choice",
+    "clean_text": "A student hypothesizes that water from infrequently used school faucets contains more chemical impurities than the water from frequently used faucets. At the same time of day, the student uses a water test kit to measure the water impurities from the different faucets. Which is the manipulated variable in this investigation?",
+    "raw_text": "A student hypothesizes that water from infrequently used school faucets contains more chemical impurities than the water from frequently used faucets. At the same time of day, the student uses a water test kit to measure the water impurities from the different faucets. Which is the manipulated variable in this investigation?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "10",
+    "type": "multiple-choice",
+    "clean_text": "Which coordinates identify a location north of a city that has a latitude of 38.0°N and a longitude of 25.0°W?",
+    "raw_text": "Which coordinates identify a location north of a city that has a latitude of 38.0°N and a longitude of 25.0°W?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "11",
+    "type": "multiple-choice",
+    "clean_text": "At which range of altitude is air pressure closest to 40 kPa based on these data?",
+    "raw_text": "<img src=\"images/question_11.png\" class=\"question-image\"><br><br>At which range of altitude is air pressure closest to 40 kPa based on these data?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "12",
+    "type": "multiple-choice",
+    "clean_text": "Which was the first object made by humans to orbit Earth?",
+    "raw_text": "Which was the first object made by humans to orbit Earth?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "13",
+    "type": "multiple-choice",
+    "clean_text": "Under which condition would a lowering of the water table most likely occur?",
+    "raw_text": "Under which condition would a lowering of the water table most likely occur?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "14",
+    "type": "multiple-choice",
+    "clean_text": "This weather map helps to predict the location where a storm will occur by giving which type of information?",
+    "raw_text": "<img src=\"images/question_14.png\" class=\"question-image\"><br><br>This weather map helps to predict the location where a storm will occur by giving which type of information?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "15",
+    "type": "multiple-choice",
+    "clean_text": "Spacecraft traveling to Jupiter from Earth would most likely have to navigate through or around which natural obstacle?",
+    "raw_text": "Spacecraft traveling to Jupiter from Earth would most likely have to navigate through or around which natural obstacle?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "16",
+    "type": "multiple-choice",
+    "clean_text": "A geologist studying volcanic activity is collecting rocks that formed from hot, molten magma. What type of rock is the geologist collecting?",
+    "raw_text": "A geologist studying volcanic activity is collecting rocks that formed from hot, molten magma. What type of rock is the geologist collecting?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "17",
+    "type": "multiple-choice",
+    "clean_text": "Which substance is a mixture of organic matter and weathered rock?",
+    "raw_text": "Which substance is a mixture of organic matter and weathered rock?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "18",
+    "type": "multiple-choice",
+    "clean_text": "Which natural process is the main cause of the ocean currents shown?",
+    "raw_text": "<img src=\"images/question_18.png\" class=\"question-image\"><br><br>Which natural process is the main cause of the ocean currents shown?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "19",
+    "type": "multiple-choice",
+    "clean_text": "Determining how the sea floor changes over time has given scientists information about the —",
+    "raw_text": "Determining how the sea floor changes over time has given scientists information about the —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "20",
+    "type": "multiple-choice",
+    "clean_text": "Why do regions of the world near the equator (0° latitude) have a more consistent climate than regions at middle latitudes?",
+    "raw_text": "Why do regions of the world near the equator (0° latitude) have a more consistent climate than regions at middle latitudes?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "21",
+    "type": "multiple-choice",
+    "clean_text": "In order to protect aquifers near landfills, material is placed under the soil to prevent pollution. Which property must the protective material possess?",
+    "raw_text": "In order to protect aquifers near landfills, material is placed under the soil to prevent pollution. Which property must the protective material possess?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "22",
+    "type": "multiple-choice",
+    "clean_text": "Which is a characteristic of all nonfoliated metamorphic rocks?",
+    "raw_text": "Which is a characteristic of all nonfoliated metamorphic rocks?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "23",
+    "type": "multiple-choice",
+    "clean_text": "Students made a hydrometer by sealing the end of a straw with wax and adding some sand until the hydrometer barely floated in fresh water. The diagram shows what the students observed when they used the hydrometer to test water from three different sites. Each water sample had the same temperature. Which of these explanations best fits these observations?",
+    "raw_text": "<img src=\"images/question_23.png\" class=\"question-image\"><br><br>Students made a hydrometer by sealing the end of a straw with wax and adding some sand until the hydrometer barely floated in fresh water. The diagram shows what the students observed when they used the hydrometer to test water from three different sites. Each water sample had the same temperature. Which of these explanations best fits these observations?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "24",
+    "type": "multiple-choice",
+    "clean_text": "The cleavage properties of mica result from the —",
+    "raw_text": "The cleavage properties of mica result from the —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "25",
+    "type": "multiple-choice",
+    "clean_text": "A star begins its formation as gravitational forces cause instability within a —",
+    "raw_text": "A star begins its formation as gravitational forces cause instability within a —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "26",
+    "type": "multiple-choice",
+    "clean_text": "The diagram represents areas below the surface of Earth in which fossils have been found. The fossil located in which labeled area is most likely the oldest?",
+    "raw_text": "<img src=\"images/question_26.png\" class=\"question-image\"><br><br>The diagram represents areas below the surface of Earth in which fossils have been found. The fossil located in which labeled area is most likely the oldest?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "27",
+    "type": "multiple-choice",
+    "clean_text": "Which structure is most similar to an alluvial fan in formation and composition?",
+    "raw_text": "Which structure is most similar to an alluvial fan in formation and composition?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "28",
+    "type": "drag-drop",
+    "clean_text": "Label these ocean features.",
+    "raw_text": "Label these ocean features. <br><br><img src=\"images/question_28.png\" class=\"question-image\">"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "29",
+    "type": "multiple-choice",
+    "clean_text": "Scientists study small pockets of air trapped deep within frozen glaciers. What are scientists trying to understand about the climate of Earth by analyzing these ice samples?",
+    "raw_text": "Scientists study small pockets of air trapped deep within frozen glaciers. What are scientists trying to understand about the climate of Earth by analyzing these ice samples?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "30",
+    "type": "multiple-choice",
+    "clean_text": "The picture shows a sinkhole. Which of these most likely caused this sinkhole to form?",
+    "raw_text": "<img src=\"images/question_30.png\" class=\"question-image\"><br><br>The picture shows a sinkhole. Which of these most likely caused this sinkhole to form?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "31",
+    "type": "multiple-choice",
+    "clean_text": "Which Virginia watershed has the greatest impact in the state due to its size?",
+    "raw_text": "<img src=\"images/question_31.png\" class=\"question-image\"><br><br>Which Virginia watershed has the greatest impact in the state due to its size?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "32",
+    "type": "multiple-choice",
+    "clean_text": "Which mineral is most likely an ingredient used in baby powder?",
+    "raw_text": "Which mineral is most likely an ingredient used in baby powder?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "33",
+    "type": "multiple-choice",
+    "clean_text": "Pollution due to coal burning most frequently tends to affect lakes by —",
+    "raw_text": "Pollution due to coal burning most frequently tends to affect lakes by —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "34",
+    "type": "multiple-choice",
+    "clean_text": "Some ponds are designed to increase the amount of water seeping into the ground. These types of ponds will fail to work properly in —",
+    "raw_text": "Some ponds are designed to increase the amount of water seeping into the ground. These types of ponds will fail to work properly in —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "35",
+    "type": "multiple-choice",
+    "clean_text": "Which action would most likely reduce concerns about how strip mining can harm the environment?",
+    "raw_text": "Which action would most likely reduce concerns about how strip mining can harm the environment?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "36",
+    "type": "drag-drop",
+    "clean_text": "Identify the geologic time in which these organisms first appeared.",
+    "raw_text": "Identify the geologic time in which these organisms first appeared."
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "37",
+    "type": "multiple-choice",
+    "clean_text": "Crushed stone is an economic resource that is second only to coal in Virginia. How is crushed stone mainly used?",
+    "raw_text": "Crushed stone is an economic resource that is second only to coal in Virginia. How is crushed stone mainly used?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "38",
+    "type": "multiple-choice",
+    "clean_text": "A student hypothesizes that a sample of rock formed from ocean sediments. Which would best help the student support this hypothesis?",
+    "raw_text": "A student hypothesizes that a sample of rock formed from ocean sediments. Which would best help the student support this hypothesis?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "39",
+    "type": "multiple-choice",
+    "clean_text": "About 2.0 billion years ago, complex organisms began to inhabit Earth. These complex organisms developed primarily because of —",
+    "raw_text": "About 2.0 billion years ago, complex organisms began to inhabit Earth. These complex organisms developed primarily because of —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "40",
+    "type": "multiple-choice",
+    "clean_text": "Students on a geology field trip will identify minerals by their streak. Which of these should the students bring on the field trip?",
+    "raw_text": "Students on a geology field trip will identify minerals by their streak. Which of these should the students bring on the field trip?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "41",
+    "type": "drag-drop",
+    "clean_text": "Well logs are used by oil companies to correlate geologic formations. Based on the formations in Well A, which geologic formations are missing in Well B?",
+    "raw_text": "Well logs are used by oil companies to correlate geologic formations. Based on the formations in Well A, which geologic formations are missing in Well B?<br><br><img src=\"images/question_41.png\" class=\"question-image\">"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "42",
+    "type": "multiple-choice",
+    "clean_text": "A low pressure system has moved away from the equator and is moving directly over water. When the system reaches 60°N latitude, the system will most likely be at a point where —",
+    "raw_text": "A low pressure system has moved away from the equator and is moving directly over water. When the system reaches 60°N latitude, the system will most likely be at a point where —"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "43",
+    "type": "drag-drop",
+    "clean_text": "Starting with the event that scientists theorize happened first and ending with the event that scientists theorize happened last, arrange the events in chronological order.",
+    "raw_text": "Starting with the event that scientists theorize happened first and ending with the event that scientists theorize happened last, arrange the events in chronological order."
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "44",
+    "type": "multiple-choice",
+    "clean_text": "Which characteristic do all the planets in our solar system have in common?",
+    "raw_text": "Which characteristic do all the planets in our solar system have in common?"
+  },
+  {
+    "source_file": "science-earth-sci-2015.js",
+    "test_id": "science_earth_sci_2015",
+    "qid": "45",
+    "type": "multiple-choice",
+    "clean_text": "A scientist is studying energy transfer that occurs in the oceans, atmosphere, and Earth's interior. Which of these is the scientist most likely studying?",
+    "raw_text": "A scientist is studying energy transfer that occurs in the oceans, atmosphere, and Earth's interior. Which of these is the scientist most likely studying?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "1",
+    "type": "multiple-choice",
+    "clean_text": "A fungus is found growing on dead leaves on the forest floor. The fungus is an example of a--",
+    "raw_text": "A fungus is found growing on dead leaves on the forest floor. The fungus is an example of a--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "2",
+    "type": "multiple-choice",
+    "clean_text": "Based on the table, how much rainfall should a scientist have predicted for May of 2011 in Norfolk?",
+    "raw_text": "Based on the table, how much rainfall should a scientist have predicted for May of 2011 in Norfolk?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "3",
+    "type": "multiple-choice",
+    "clean_text": "Which of these best explains why the sun is not visible during the night?",
+    "raw_text": "Which of these best explains why the sun is not visible during the night?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "4",
+    "type": "multiple-choice",
+    "clean_text": "A model of a plate boundary is shown. What most likely happens as the plates slide past each other?",
+    "raw_text": "A model of a plate boundary is shown. What most likely happens as the plates slide past each other?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "5",
+    "type": "free-response",
+    "clean_text": "What is the mass of the rock shown?",
+    "raw_text": "What is the mass of the rock shown?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "6",
+    "type": "multiple-choice",
+    "clean_text": "During pollination, pollen is transferred from a stamen to a--",
+    "raw_text": "During pollination, pollen is transferred from a stamen to a--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "7",
+    "type": "multiple-choice",
+    "clean_text": "Which of these is an impact made by humans?",
+    "raw_text": "Which of these is an impact made by humans?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "8",
+    "type": "multiple-choice",
+    "clean_text": "Lobster pots are used by fishermen to catch lobsters in shallow water. In which area of the ocean would commercial fishermen most likely place their lobster pots?",
+    "raw_text": "Lobster pots are used by fishermen to catch lobsters in shallow water. In which area of the ocean would commercial fishermen most likely place their lobster pots?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "9",
+    "type": "multiple-choice",
+    "clean_text": "Which unit is best to use to measure the distance a runner covered in 30 seconds?",
+    "raw_text": "Which unit is best to use to measure the distance a runner covered in 30 seconds?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "10",
+    "type": "multiple-choice",
+    "clean_text": "In which direction will the ball most likely go after it hits the wall?",
+    "raw_text": "In which direction will the ball most likely go after it hits the wall?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "11",
+    "type": "multiple-choice",
+    "clean_text": "What is the difference between 5/12 and 1/4",
+    "raw_text": "What is the difference between 5/12 and 1/4"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "12",
+    "type": "multiple-choice",
+    "clean_text": "Which cell part is necessary for producing food?",
+    "raw_text": "Which cell part is necessary for producing food?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "13",
+    "type": "multiple-choice",
+    "clean_text": "One way in which light waves are different from sound waves is that light waves--",
+    "raw_text": "One way in which light waves are different from sound waves is that light waves--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "14",
+    "type": "multiple-choice",
+    "clean_text": "Which material will correctly complete the chart?",
+    "raw_text": "Which material will correctly complete the chart?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "15",
+    "type": "multiple-choice",
+    "clean_text": "A student rubbed a plastic comb with a piece of wool cloth and then placed the comb near a stream of water. The water bent toward the comb as shown because of-",
+    "raw_text": "A student rubbed a plastic comb with a piece of wool cloth and then placed the comb near a stream of water. The water bent toward the comb as shown because of-"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "16",
+    "type": "multiple-choice",
+    "clean_text": "Which plant part develops into a fruit?",
+    "raw_text": "Which plant part develops into a fruit?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "17",
+    "type": "multiple-choice",
+    "clean_text": "A student is investigating the time it takes for different objects to reach the ground after they are dropped. The constant in this investigation is the -",
+    "raw_text": "A student is investigating the time it takes for different objects to reach the ground after they are dropped. The constant in this investigation is the -"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "18",
+    "type": "multiple-select",
+    "clean_text": "Identify the quantitative data shown.",
+    "raw_text": "Identify the quantitative data shown."
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "19",
+    "type": "multiple-choice",
+    "clean_text": "Which of these represents a correct flow of energy based on the food web shown?",
+    "raw_text": "Which of these represents a correct flow of energy based on the food web shown?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "20",
+    "type": "multiple-choice",
+    "clean_text": "When stirred together, which two substances form a solution?",
+    "raw_text": "When stirred together, which two substances form a solution?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "21",
+    "type": "multiple-choice",
+    "clean_text": "The plants are most likely responding to which factor in the environment?",
+    "raw_text": "The plants are most likely responding to which factor in the environment?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "22",
+    "type": "multiple-choice",
+    "clean_text": "The greater the frequency of a sound wave, the--",
+    "raw_text": "The greater the frequency of a sound wave, the--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "23",
+    "type": "multiple-choice",
+    "clean_text": "A student made the model showing the particles in a solid. To improve the model, the student should--",
+    "raw_text": "A student made the model showing the particles in a solid. To improve the model, the student should--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "24",
+    "type": "multiple-choice",
+    "clean_text": "Which substance produced during photosynthesis is represented by the X in the illustration?",
+    "raw_text": "Which substance produced during photosynthesis is represented by the X in the illustration?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "25",
+    "type": "multiple-choice",
+    "clean_text": "Which of these animals is classified as a vertebrate?",
+    "raw_text": "Which of these animals is classified as a vertebrate?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "26",
+    "type": "multiple-choice",
+    "clean_text": "An electromagnet can be made using a battery, insulated wire, and--",
+    "raw_text": "An electromagnet can be made using a battery, insulated wire, and--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "27",
+    "type": "multiple-choice",
+    "clean_text": "High and low tides on the coast are caused mostly by -",
+    "raw_text": "High and low tides on the coast are caused mostly by -"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "28",
+    "type": "multiple-choice",
+    "clean_text": "The plant shown grows in swamps and produces an odor similar to a skunk. Why should people preserve a plant like the skunk cabbage?",
+    "raw_text": "The plant shown grows in swamps and produces an odor similar to a skunk. Why should people preserve a plant like the skunk cabbage?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "29",
+    "type": "multiple-choice",
+    "clean_text": "Which pair of organisms needs to switch places for the ocean food chain to be correct?",
+    "raw_text": "Which pair of organisms needs to switch places for the ocean food chain to be correct?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "30",
+    "type": "multiple-choice",
+    "clean_text": "Students investigated how different colors of construction paper in a solar oven affect the heating of water. Which graph correctly represents the data for the brown construction paper?",
+    "raw_text": "Students investigated how different colors of construction paper in a solar oven affect the heating of water. Which graph correctly represents the data for the brown construction paper?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "31",
+    "type": "multiple-choice",
+    "clean_text": "A student made a track for a toy sled using 4 different materials. At which section of the track is friction most likely to cause the greatest resistance to the motion of the toy sled?",
+    "raw_text": "A student made a track for a toy sled using 4 different materials. At which section of the track is friction most likely to cause the greatest resistance to the motion of the toy sled?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "32",
+    "type": "multiple-choice",
+    "clean_text": "Which pair of colors is in order from the longest wavelength of light in the visible spectrum to the shortest wavelength?",
+    "raw_text": "Which pair of colors is in order from the longest wavelength of light in the visible spectrum to the shortest wavelength?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "33",
+    "type": "multiple-choice",
+    "clean_text": "Based on the mineral identification table, which mineral belongs in square X of the flow chart?",
+    "raw_text": "Based on the mineral identification table, which mineral belongs in square X of the flow chart?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "34",
+    "type": "multiple-choice",
+    "clean_text": "The conveyor belt moves the groceries by transforming electrical energy into--",
+    "raw_text": "The conveyor belt moves the groceries by transforming electrical energy into--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "35",
+    "type": "multiple-choice",
+    "clean_text": "Students made a classroom barometer that can be used to measure--",
+    "raw_text": "Students made a classroom barometer that can be used to measure--"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "36",
+    "type": "multiple-choice",
+    "clean_text": "Which of these is an example of a behavioral adaptation?",
+    "raw_text": "Which of these is an example of a behavioral adaptation?"
+  },
+  {
+    "source_file": "science-grade5-2015.js",
+    "test_id": "science_grade5_2015",
+    "qid": "37",
+    "type": "multiple-choice",
+    "clean_text": "Coal is important for Virginia because it--",
+    "raw_text": "Coal is important for Virginia because it--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "1",
+    "type": "multiple-choice",
+    "clean_text": "Sea anemones are poisonous. However, the clownfish has developed an outer layer of mucus which provides protection from the stinging cells of the sea anemone. The mucus is best described as--",
+    "raw_text": "Sea anemones are poisonous. However, the clownfish has developed an outer layer of mucus which provides protection from the stinging cells of the sea anemone. The mucus is best described as--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "2",
+    "type": "multiple-choice",
+    "clean_text": "Hurricanes form in tropical waters between 8 and 20 degrees north and south of the equator. Hurricanes rarely form at higher latitudes because the water is too--",
+    "raw_text": "Hurricanes form in tropical waters between 8 and 20 degrees north and south of the equator. Hurricanes rarely form at higher latitudes because the water is too--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "3",
+    "type": "multiple-choice",
+    "clean_text": "On a small island, scientists observed and graphed changes in wolf and moose populations. From 1965 to 1970, which data pattern did scientists observe?",
+    "raw_text": "On a small island, scientists observed and graphed changes in wolf and moose populations. From 1965 to 1970, which data pattern did scientists observe?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "4",
+    "type": "multiple-choice",
+    "clean_text": "A metal spoon was placed in a dish of ice cream and became cool. Which correctly describes the heat transfer process that resulted in the cooling of the spoon?",
+    "raw_text": "A metal spoon was placed in a dish of ice cream and became cool. Which correctly describes the heat transfer process that resulted in the cooling of the spoon?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "5",
+    "type": "multiple-choice",
+    "clean_text": "Students performed several trials using the laboratory setup shown. students were also given this hypothesis: If friction increases, then the rolling distance of a marble will decrease. What should be changed to best test this hypothesis?",
+    "raw_text": "Students performed several trials using the laboratory setup shown. students were also given this hypothesis: If friction increases, then the rolling distance of a marble will decrease. What should be changed to best test this hypothesis?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "6",
+    "type": "multiple-choice",
+    "clean_text": "A student recorded the temperature of an aquarium each hour for 8 hours. Which of these will best display the data the student collected?",
+    "raw_text": "A student recorded the temperature of an aquarium each hour for 8 hours. Which of these will best display the data the student collected?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "7",
+    "type": "multiple-choice",
+    "clean_text": "A cold air mass moves underneath a warm air mass causing the warm air to rise. This event can best be identified as -",
+    "raw_text": "A cold air mass moves underneath a warm air mass causing the warm air to rise. This event can best be identified as -"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "8",
+    "type": "multiple-choice",
+    "clean_text": "Which body of water is often protected naturally from storms by barrier islands and also contains a mixture of fresh water and salt water?",
+    "raw_text": "Which body of water is often protected naturally from storms by barrier islands and also contains a mixture of fresh water and salt water?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "9",
+    "type": "multiple-select",
+    "clean_text": "Which three drawings best represent objects with kinetic energy?",
+    "raw_text": "Which three drawings best represent objects with kinetic energy?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "10",
+    "type": "multiple-choice",
+    "clean_text": "Which of these best completes the Conversion Table?",
+    "raw_text": "Which of these best completes the Conversion Table?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "11",
+    "type": "multiple-choice",
+    "clean_text": "A student measured the power of a motor operating at different temperatures. The student recorded a total of 11 measurements, one at each 2 degree interval between 10°C and 30°C. Which change in the procedure would most improve the validity of conclusions based on this investigation?",
+    "raw_text": "A student measured the power of a motor operating at different temperatures. The student recorded a total of 11 measurements, one at each 2 degree interval between 10°C and 30°C. Which change in the procedure would most improve the validity of conclusions based on this investigation?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "12",
+    "type": "multiple-choice",
+    "clean_text": "Which of these has the strongest gravitational field?",
+    "raw_text": "Which of these has the strongest gravitational field?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "13",
+    "type": "multiple-choice",
+    "clean_text": "Students placed steel wool in beakers of four different liquids in order of the most acidic to neutral. The students recorded their observations in the table. Which is the best conclusion based on the table?",
+    "raw_text": "Students placed steel wool in beakers of four different liquids in order of the most acidic to neutral. The students recorded their observations in the table. Which is the best conclusion based on the table?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "14",
+    "type": "multiple-choice",
+    "clean_text": "Which is the result of using a more powerful motor to run an elevator?",
+    "raw_text": "Which is the result of using a more powerful motor to run an elevator?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "15",
+    "type": "multiple-choice",
+    "clean_text": "A major scientific concern over nuclear energy is how to--",
+    "raw_text": "A major scientific concern over nuclear energy is how to--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "16",
+    "type": "drag-drop",
+    "clean_text": "What are the ordered steps for cloud formation?",
+    "raw_text": "What are the ordered steps for cloud formation?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "17",
+    "type": "multiple-choice",
+    "clean_text": "Why is water known as the \"universal solvent\"?",
+    "raw_text": "Why is water known as the \"universal solvent\"?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "18",
+    "type": "multiple-choice",
+    "clean_text": "Which of these has been improved by genetic engineering?",
+    "raw_text": "Which of these has been improved by genetic engineering?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "19",
+    "type": "multiple-choice",
+    "clean_text": "Which action will most reduce the use of nonrenewable energy resources in a school district?",
+    "raw_text": "Which action will most reduce the use of nonrenewable energy resources in a school district?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "20",
+    "type": "multiple-choice",
+    "clean_text": "Sound waves are unable to travel through--",
+    "raw_text": "Sound waves are unable to travel through--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "21",
+    "type": "multiple-choice",
+    "clean_text": "The speed of light is about 300,000,000 m/s. Which is the correct expression for the speed of light in scientific notation?",
+    "raw_text": "The speed of light is about 300,000,000 m/s. Which is the correct expression for the speed of light in scientific notation?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "22",
+    "type": "multiple-choice",
+    "clean_text": "Which of these properties of an unknown liquid can be found using a beaker, a hot plate, and a temperature probe?",
+    "raw_text": "Which of these properties of an unknown liquid can be found using a beaker, a hot plate, and a temperature probe?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "23",
+    "type": "drag-drop",
+    "clean_text": "Place the terms in the order of the simplest level of organization to the most complex.",
+    "raw_text": "Place the terms in the order of the simplest level of organization to the most complex."
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "24",
+    "type": "multiple-choice",
+    "clean_text": "A group of campers travels to a cabin which has no electrical power. In order to provide the power for a heater and lights, which device would be appropriate?",
+    "raw_text": "A group of campers travels to a cabin which has no electrical power. In order to provide the power for a heater and lights, which device would be appropriate?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "25",
+    "type": "multiple-choice",
+    "clean_text": "Which of the.se i.s most likely the result of weasels and foxes depending on the same food source?",
+    "raw_text": "Which of the.se i.s most likely the result of weasels and foxes depending on the same food source?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "26",
+    "type": "multiple-choice",
+    "clean_text": "A farmer wants to plant a crop that grows well in a marshland environment. In order to produce a good harvest, the most important characteristic this plant should have is the ability to--",
+    "raw_text": "A farmer wants to plant a crop that grows well in a marshland environment. In order to produce a good harvest, the most important characteristic this plant should have is the ability to--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "27",
+    "type": "multiple-choice",
+    "clean_text": "The volume of water in the pot decreases during this investigation. Water droplets form on the mirror when positioned over the pot. In this setup, water--",
+    "raw_text": "The volume of water in the pot decreases during this investigation. Water droplets form on the mirror when positioned over the pot. In this setup, water--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "28",
+    "type": "multiple-choice",
+    "clean_text": "Which is an abiotic change in an ecosystem?",
+    "raw_text": "Which is an abiotic change in an ecosystem?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "29",
+    "type": "free-response",
+    "clean_text": "Ca + 2H₂O → Ca(OH)₂ + H₂ How many different elements are involved in the chemical reaction shown?",
+    "raw_text": "Ca + 2H₂O → Ca(OH)₂ + H₂ <br> How many different elements are involved in the chemical reaction shown?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "30",
+    "type": "multiple-choice",
+    "clean_text": "Physical and chemical weathering processes are responsible for breaking down rocks. Which of these is an example of chemical weathering by water?",
+    "raw_text": "Physical and chemical weathering processes are responsible for breaking down rocks. Which of these is an example of chemical weathering by water?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "31",
+    "type": "multiple-choice",
+    "clean_text": "The shaded row in the t.able is called a--",
+    "raw_text": "The shaded row in the t.able is called a--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "32",
+    "type": "multiple-choice",
+    "clean_text": "White-footed mice having thicker fur than cactus mice is probably influenced most by the differences in the--",
+    "raw_text": "White-footed mice having thicker fur than cactus mice is probably influenced most by the differences in the--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "33",
+    "type": "multiple-choice",
+    "clean_text": "During human fertilization, an egg and a sperm cell unite. Which structures in these cells carry the genes that will be transferred to the offspring?",
+    "raw_text": "During human fertilization, an egg and a sperm cell unite. Which structures in these cells carry the genes that will be transferred to the offspring?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "34",
+    "type": "multiple-choice",
+    "clean_text": "Which facility relies on a nonrenewable source of energy?",
+    "raw_text": "Which facility relies on a nonrenewable source of energy?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "35",
+    "type": "multiple-choice",
+    "clean_text": "As the frequency of a wave decreases, the wave's--",
+    "raw_text": "As the frequency of a wave decreases, the wave's--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "36",
+    "type": "multiple-choice",
+    "clean_text": "This picture shows a zebra with two tick birds on its back. The tick birds alert the zebras that predators are near as well as remove and eat ticks found on zebras. What is the primary type of interaction between the tick birds and the zebras?",
+    "raw_text": "This picture shows a zebra with two tick birds on its back. The tick birds alert the zebras that predators are near as well as remove and eat ticks found on zebras. What is the primary type of interaction between the tick birds and the zebras?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "37",
+    "type": "multiple-choice",
+    "clean_text": "Which change will most likely increase the strength of a magnetic field produced by an electromagnet?",
+    "raw_text": "Which change will most likely increase the strength of a magnetic field produced by an electromagnet?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "38",
+    "type": "multiple-choice",
+    "clean_text": "The physical expression of a trait in an organism is known as the--",
+    "raw_text": "The physical expression of a trait in an organism is known as the--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "39",
+    "type": "multiple-choice",
+    "clean_text": "Which statement correctly describes a difference between the mesosphere and the stratosphere?",
+    "raw_text": "Which statement correctly describes a difference between the mesosphere and the stratosphere?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "40",
+    "type": "multiple-select",
+    "clean_text": "Which organisms are producers in this food web?",
+    "raw_text": "Which organisms are producers in this food web?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "41",
+    "type": "multiple-choice",
+    "clean_text": "Which of these represents the freezing point of water in correct SI units?",
+    "raw_text": "Which of these represents the freezing point of water in correct SI units?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "42",
+    "type": "multiple-choice",
+    "clean_text": "A girl kicks a soccer ball into the air. Which of these best explains why the soccer ball falls back to Earth?",
+    "raw_text": "A girl kicks a soccer ball into the air. Which of these best explains why the soccer ball falls back to Earth?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "43",
+    "type": "multiple-choice",
+    "clean_text": "Students measured the amount of an unknown substance that dissolved in water at different temperatures. What was the independent variable in this investigation?",
+    "raw_text": "Students measured the amount of an unknown substance that dissolved in water at different temperatures. What was the independent variable in this investigation?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "44",
+    "type": "multiple-choice",
+    "clean_text": "Which characteristic is common to the four outer planets in our solar system?",
+    "raw_text": "Which characteristic is common to the four outer planets in our solar system?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "45",
+    "type": "multiple-choice",
+    "clean_text": "When comparing a plant cell to an animal cell, only the plant cell will contain--",
+    "raw_text": "When comparing a plant cell to an animal cell, only the plant cell will contain--"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "46",
+    "type": "multiple-choice",
+    "clean_text": "A student measures her heart rate after each of the activities listed. Based on this information, which is a constant in the student's investigation?",
+    "raw_text": "A student measures her heart rate after each of the activities listed. Based on this information, which is a constant in the student's investigation?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "47",
+    "type": "multiple-choice",
+    "clean_text": "Which of these is the best description of a typical organism in the Plant kingdom?",
+    "raw_text": "Which of these is the best description of a typical organism in the Plant kingdom?"
+  },
+  {
+    "source_file": "science-grade8-2015.js",
+    "test_id": "science_grade8_2015",
+    "qid": "48",
+    "type": "multiple-choice",
+    "clean_text": "Which of these is a way that a person can help improve air quality?",
+    "raw_text": "Which of these is a way that a person can help improve air quality?"
+  }
+]
