@@ -33,7 +33,7 @@ from pathlib import Path
 # ----------------------------------------------------------------------
 # SETTINGS
 # ----------------------------------------------------------------------
-SUBJECT     = "math"        # "math", "reading", or "science" -- must match step 1
+SUBJECT     = "science"        # "math", "reading", or "science" -- must match step 1
 N_TOPICS    = None          # None = let the script pick; or set an integer to force it.
 MIN_K, MAX_K = 6, 20        # range searched when N_TOPICS is None.
 PERPLEXITY  = 30            # t-SNE smoothing, same default as the SBERT script.

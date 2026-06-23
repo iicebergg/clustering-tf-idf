@@ -327,8 +327,6 @@ image
 images
 picture
 pictures
-diagram
-diagrams
 graph
 graphs
 photo
