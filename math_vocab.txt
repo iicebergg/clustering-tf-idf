@@ -1,0 +1,772 @@
+digit
+digits
+decimal
+decimals
+integer
+integers
+compare
+compares
+compared
+comparing
+least
+less than
+greater than
+greatest
+equal
+equals
+equalling
+equaling
+equality
+equalities
+equaled
+equivalent
+equivalently
+equivalency
+equivalence
+inequality
+inequalities
+inequal
+round
+rounds
+rounding
+rounded
+place value
+place values
+fraction
+fractions
+numerator
+denominator
+proper
+improper
+mixed number
+mixed numbers
+add
+adds
+added
+adding
+addition
+combine
+combined
+combining
+combines
+sum
+minus
+subtract
+subtracts
+subtracted
+subtracting
+subtraction
+difference
+differences
+regroup
+regroups
+regrouping
+regrouped
+multiple
+multiples
+multiply
+multiplies
+multiplicity
+multiplication
+product
+products
+divide
+divides
+division
+quotient
+quotients
+dividend
+dividends
+divisor
+divisors
+number sentence
+number sentences
+number line
+number lines
+cups
+ounce
+ounces
+pint
+pints
+quart
+quarts
+gallon
+gallons
+liter
+liters
+penny
+pennies
+nickel
+nickels
+dime
+dimes
+quarter
+quarters
+dollar
+dollars
+coin
+coins
+ruler
+rulers
+measure
+measures
+time
+times
+elapsed
+elapse
+elapsing
+elapses
+clock
+clocks
+minute
+minutes
+hour
+hours
+day
+days
+second
+seconds
+calendar
+calendars
+pattern
+patterns
+thermometer
+thermometers
+temperature
+temperatures
+degree
+degrees
+fahrenheit
+celsius
+area
+areas
+volume
+volumes
+surface area
+surface areas
+perimeter
+perimeters
+square unit
+square units
+plane
+planes
+solid
+solids
+figure
+figures
+shape
+shapes
+polygon
+polygons
+polygonal
+side
+sides
+sided
+edge
+edges
+vertex
+vertices
+triangle
+triangles
+triangular
+triangular prism
+triangular prisms
+rectangle
+rectangles
+rectangular
+rectangular prism
+rectangular prisms
+pentagon
+pentagons
+pentagonal
+hexagon
+hexagons
+hexagonal
+heptagon
+heptagons
+heptagonal
+octagon
+octagons
+octagonal
+nonagon
+nonagons
+nongaonal
+decagon
+decagons
+decagonal
+quadrilateral
+quadrilaterals
+parallelogram
+parallelograms
+geometric
+geometry
+geometries
+rhombus
+rhombi
+trapezoid
+trapezoids
+trapezoidal
+trapezoidally
+sphere
+spheres
+spherical
+spherically
+cube
+cubes
+cubic
+cylinder
+cylinders
+cylindrical
+cylindrically
+cone
+cones
+conic
+conical
+conically
+point
+points
+angle
+angles
+angular
+angled
+congruent
+congruency
+noncongruent
+noncongruency
+line
+lines
+line segment
+line segments
+linear
+rays
+endpoint
+endpoints
+midpoint
+midpoints
+intersect
+intersects
+intersected
+intersection
+intersections
+intersecting
+parallel
+perpendicular
+perpenicularly
+unit
+units
+model
+models
+modeling
+modeled
+chart
+charts
+charted
+graph
+graphs
+graphing
+graphed
+bar graph
+bar graphs
+pictograph
+pictographs
+certain
+certainly
+uncertain
+uncertainly
+likely
+unlikely
+equally likely
+impossible
+impossibly
+truth
+truths
+possible
+possibly
+spinner
+spinners
+expression
+expressions
+equation
+equations
+calculate
+calculates
+calculated
+calculator
+calculators
+calculating
+input
+inputs
+output
+outputs
+table
+tables
+array
+arrays
+symbol
+symbols
+symbolic
+symbolically
+represent
+representation
+representations
+represents
+representing
+represented
+horizontal
+horizontally
+vertical
+vertically
+pies
+pie chart
+pie charts
+pie graph
+pie graphs
+notate
+notates
+notated
+notating
+notation
+notations
+prime
+composite
+even
+evenly
+odd
+meter
+meters
+centimeter
+centimeters
+millimeter
+millimeters
+kilometer
+kilometers
+gram
+grams
+chord
+chords
+diameter
+diameters
+radius
+radii
+circumference
+circumferences
+acute
+obtuse
+straight
+straightly
+equilateral
+scalene
+isosceles
+right angle
+right angles
+height
+heights
+width
+widths
+length
+lengths
+reflect
+reflects
+reflected
+reflecting
+reflection
+reflections
+rotate
+rotates
+rotated
+rotation
+rotating
+rotations
+translate
+translates
+translated
+translation
+translations
+translating
+line graph
+line graphs
+line plot
+line plots
+plot
+plots
+plotting
+plotted
+stem leaf plot
+count
+counts
+counting
+counted
+counter
+counters
+fair
+fairly
+fairer
+distribution
+distribute
+distributes
+distributive
+average
+averages
+mean
+means
+median
+medians
+mode
+modes
+range
+ranges
+least common multiple
+greatest common factor
+ratio
+ratios
+relation
+relations
+relationship
+relationships
+absolute value
+absolute values
+negative
+negatives
+positive
+positives
+perfect square
+perfect squares
+square root
+square roots
+cube root
+cube roots
+root
+roots 
+power
+powers
+exponent
+exponential
+exponentially
+exponents
+operation
+operations
+coordinate
+coordinates
+coordinate plane
+coordinate planes
+ordered pair
+ordered pairs
+regular
+regularity
+symmetry
+symmetric
+symmetrical
+asymmetry
+asymmetric
+asymmetrical
+circle graph
+circle graphs
+circle chart
+circle charts
+proportional
+proportionally
+proportion
+proportions
+proportioned
+variable
+variables
+isolate
+isolates
+isolated
+isolating
+isolation
+coefficient
+coefficients
+term
+terms
+algebra
+algebraic
+algebraically
+scientific notation
+scientific notations
+rational
+rationally
+scale
+scales
+scaled
+scalar
+similar
+similarity
+similarly
+slope
+slopes
+sloped
+property
+properties
+commutative
+associative
+identity
+idenities
+histogram
+histograms
+rate
+rates
+rate change
+rates change
+real number
+real numbers
+natural number
+natural numbers
+whole number
+whole numbers
+irrational
+irrationally
+percent
+percents
+percentage
+percentages
+data
+complementary
+complement
+supplementary
+supplement
+adjacent
+adjacents
+adjacency
+pyramid
+pyramids
+dilate
+dilates
+dilated
+dilation
+dilating
+boxplot
+boxplots
+box whisker
+independent
+independently
+independence
+dependent
+dependently
+dependence
+constant
+constants
+constantly
+function
+functions
+intercept
+intercepts
+scatterplot
+scatterplots
+scattergram
+scattergrams
+binomial
+binomials
+polynomial
+polynomials
+solution
+solutions
+quadratic
+quadratics
+parabola
+parabolas
+monomial
+monomials
+factoring
+factorial
+factorials
+factored
+factors
+formula
+formulas
+system
+systems
+outlier
+outliers
+curve best
+line best
+direct
+directly
+inverse
+inversely
+vary
+varies
+variation
+varations
+transitive
+transitively
+logic
+logical
+logically
+logics
+sets
+condition
+conditions
+conditional
+conditionally
+converse
+conversely
+converses
+contrapositive
+contrapositively
+induce
+induces
+induced
+inductive
+inductively
+deduce
+deduces
+deduced
+deductively
+detachment
+syllogism
+example
+examples
+counterexample
+counterexamples
+skew
+skews
+skew line
+skew lines
+transverse
+transversal
+transversals
+correspond
+corresponds
+corresponded
+corresponding
+interior angle
+interior angles
+exterior angle
+exterior angles
+consecutive
+consecutively
+consecutives
+origin
+origins
+bisect
+bisects
+bisected
+bisector
+construction
+construct
+constructed
+constructions
+theorem
+theorems
+postulate
+postulates
+axiom
+axioms
+altitude
+altitudes
+semicircle
+semicircles
+hemisphere
+hemispheres
+polyhedron
+polyhedrons
+inscribe
+inscribed
+inscribes
+secant
+secants
+tangent
+tangents
+tangential
+arcs
+union
+unions
+disjunction
+disjunctions
+venn diagram
+venn diagrams
+diagram
+diagrams
+true
+false
+complex
+complex number
+complex numbers
+trinomial
+trinomials
+radical
+radicals
+group
+grouping
+domain
+domains
+extreme
+extremes
+extrema
+local minimum
+local minima
+relative minimum
+relative minima
+absolute minimum
+absolute minima
+local maximum
+local maxima
+relative maximum
+relative maxima
+absolute maxima
+absolute maximum
+behavior
+behaviors
+joint
+jointly
+joints
+summation
+summations
+continuous
+continuously
+continuity
+discontinuous
+discontinuously
+discontinuity
+hole
+holes
+asymptote
+asymptotic
+asymptotes
+infinite
+infinity
+infinitely
+finite
+finites
+arithmetic
+sequence
+sequences
+permutation
+permutations
+combination
+combinations
+empirical
+empricially
+correlation
+correlations
+variance
+standard deviation
+standard deviations
+cost
+costs
+costing
+arrow
+arrows
+total
+totals
+tax
+taxes
+sale
+sales
+price
+prices
+priced
+solve
+solves
+solved
+probability
+probably
+probable
+common
+commonly
+estimate
+estimates
+estimated
+estimation
+estimating
