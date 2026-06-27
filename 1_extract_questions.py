@@ -18,7 +18,7 @@ import html
 from pathlib import Path
 
 # SETTINGS  -  set SUBJECT, then run. One subject per run.
-SUBJECT = "science"                       # "math", "reading", or "science"
+SUBJECT = "reading"                       # "math", "reading", or "science"
 JS_FOLDER = Path(f"./js_{SUBJECT}")    # this run reads from ./js_math, ./js_reading, etc.
 OUTPUT_DIR = Path(".")                 # output files are named with the subject prefix
 

@@ -33,9 +33,9 @@ from pathlib import Path
 # ----------------------------------------------------------------------
 # SETTINGS
 # ----------------------------------------------------------------------
-SUBJECT     = "science"        # "math", "reading", or "science" -- must match step 1
+SUBJECT     = "reading"        # "math", "reading", or "science" -- must match step 1
 N_TOPICS    = None          # None = let the script pick; or set an integer to force it.
-MIN_K, MAX_K = 6, 20        # range searched when N_TOPICS is None.
+MIN_K, MAX_K = 8, 20        # range searched when N_TOPICS is None.
 PERPLEXITY  = 30            # t-SNE smoothing, same default as the SBERT script.
 RANDOM_SEED = 42
 VOCAB_FILE  = "auto"        # how to restrict TF-IDF to a curated dictionary:

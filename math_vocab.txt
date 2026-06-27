@@ -770,3 +770,7 @@ estimates
 estimated
 estimation
 estimating
+same
+identical
+differ
+different
